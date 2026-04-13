@@ -1,4 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhia Chairet
+
+Software Engineering student @ TEK-UP. Previously: CS & Multimedia, Gabès.
+
+Full-stack dev — from data modeling to pixel-pushing. Built an AI-powered e-learning platform with Next.js + Gemini. Also work with Spring Boot, Symfony, Flutter, Docker.
+
+Always learning. Always building.
+
+---
+
+## 🔧 Tech I use
+Next.js, React, Node.js, Express.js, Spring Boot, Symfony, Flutter,MongoDB, MySQL
 
 <!--
 **Dhiachairet/Dhiachairet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
