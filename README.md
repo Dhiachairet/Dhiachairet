@@ -2,7 +2,7 @@
 
 Software Engineering student @ TEK-UP. Previously: CS & Multimedia, Gabès.
 
-Full-stack dev — from data modeling to pixel-pushing. Built an AI-powered e-learning platform with Next.js + Gemini. Also work with Spring Boot, Symfony, Flutter, Docker.
+Full-stack dev. Built an AI-powered e-learning platform with Next.js + Gemini. Also work with Spring Boot, Symfony, Flutter, Docker.
 
 Always learning. Always building.
 
