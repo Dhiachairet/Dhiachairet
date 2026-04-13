@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Dhia Chairet
+#  Hi, I'm Dhia Chairet
 
 Software Engineering student @ TEK-UP. Previously: CS & Multimedia, Gabès.
 
-Full-stack dev. Built an AI-powered e-learning platform with Next.js + Gemini. Also work with Spring Boot, Symfony, Flutter, Docker.
+Full-stack developer working with Next.js, MERN Stack , Spring Boot, Symfony, Flutter, and Docker.
 
 Always learning. Always building.
 
 ---
 
-## 🔧 Tech I use
+##  Tech I use
 Next.js, React, Node.js, Express.js, Spring Boot, Symfony, Flutter,MongoDB, MySQL
 
 <!--
