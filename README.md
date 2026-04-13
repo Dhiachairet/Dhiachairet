@@ -1,6 +1,7 @@
 #  Hi, I'm Dhia Chairet
 
-Software Engineering student @ TEK-UP. Previously: CS & Multimedia, Gabès.
+Software Engineering student @ TEK-UP.
+Previously: CS & Multimedia @ ISIMG.
 
 Full-stack developer working with Next.js, MERN Stack , Spring Boot, Symfony, Flutter, and Docker.
 
