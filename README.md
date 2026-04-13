@@ -7,10 +7,6 @@ Full-stack developer working with Next.js, MERN Stack , Spring Boot, Symfony, Fl
 
 Always learning. Always building.
 
----
-
-##  Tech I use
-Next.js, React, Node.js, Express.js, Spring Boot, Symfony, Flutter,MongoDB, MySQL
 
 <!--
 **Dhiachairet/Dhiachairet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
